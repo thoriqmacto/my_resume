@@ -1,14 +1,15 @@
 body {
   background: rgb(204, 204, 204);
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: small;
 }
 page {
+  position: relative;
   background: white;
   display: block;
   margin: 0 auto;
   margin-bottom: 0.5cm;
-  padding: 0.2cm 0.5cm;
+  padding: 1cm 1cm;
   box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
 }
 page[size='A4'] {
@@ -20,14 +21,137 @@ page[size='A4'][layout='landscape'] {
   height: 21cm;
 }
 
-span{
-    display: block;
+ul {
+  padding-left: 0.5cm;
 }
 
-.ul_multicols{
-    display: inline-block;
-    vertical-align: top;
-    width: 5cm;
+header {
+  display: block;
+}
+
+header img {
+  float: left;
+  border-radius: 5cm;
+  border: 1px solid rgb(0, 0, 0);
+  padding: 0.1cm;
+  width: 2.5cm;
+  height: 2.5cm;
+  margin-right: 0.75cm;
+}
+
+header h1,
+header ul {
+  display: inline-block;
+  vertical-align: top;
+}
+
+header h1 {
+  font-size: 0.75cm;
+  font-weight: 800;
+  margin-top: 0;
+  margin-bottom: 0.2cm;
+}
+
+header h1 span {
+  font-weight: 100;
+}
+
+header ul {
+  padding: 0;
+  margin: 0 0.5cm 0 0;
+  list-style-type: none;
+}
+
+header ul li {
+  margin-top: 0.1cm;
+}
+
+header ul li:first-child {
+  margin-top: 0;
+}
+
+section.common {
+  margin-top: 0.5cm;
+}
+
+section.common h2 {
+  margin: 0 0;
+}
+
+section.common ul.career_list,
+section.common ul.career_list li ul.career_details {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+section.common ul.career_list li ul.career_details li {
+  display: inline-block;
+  vertical-align: top;
+}
+
+section.common ul.career_list li ul.career_details li h3 {
+  margin: 0.1cm auto;
+}
+
+section.common ul.career_list li ul.career_details li.left {
+  width: 5cm;
+}
+
+section.common ul.career_list li ul.career_details li.left span {
+  font-style: italic;
+}
+
+section.common ul.career_list h4 {
+  font-weight: 500;
+  font-style: italic;
+  margin: 0.3cm auto;
+}
+
+section.common ul.career_list p.career_outline {
+  margin: 0 auto;
+}
+
+section.common ul.career_list li ul.career_responsibilities li {
+  list-style-type: disc;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 21cm;
+}
+
+footer hr {
+  border: 1px solid black;
+  margin-bottom: 0;
+}
+
+footer span.left {
+  float: left;
+  margin-top: 0.1cm;
+  font-size: 12px;
+  color: darkslategray;
+}
+
+footer span.right {
+  float: right;
+  border: 1px solid black;
+  background-color: black;
+  padding: 0.2cm 0.5cm;
+  color: white;
+  font-size: 18px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.ul_multicols {
+  display: inline-block;
+  vertical-align: top;
+  width: 6cm;
+  margin-right: 0.2cm;
+  margin-bottom: 0;
 }
 
 @media print {
