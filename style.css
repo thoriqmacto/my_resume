@@ -83,39 +83,52 @@ section.common h2 span {
 }
 
 section.common ul.career_list,
-section.common ul.career_list li ul.career_details {
+section.common ul.career_list li ul.career_details,
+section.common ul.academic_list,
+section.common ul.academic_list li ul.academic_details {
   list-style-type: none;
   padding-left: 0;
 }
 
-section.common ul.career_list li ul.career_details li {
+section.common ul.career_list li ul.career_details li,
+section.common ul.academic_list li ul.academic_details li {
   display: inline-block;
   vertical-align: top;
+  margin: 0.1cm auto;
 }
 
 section.common ul.career_list li ul.career_details li h3 {
   margin: 0.1cm auto;
 }
 
-section.common ul.career_list li ul.career_details li.left {
+section.common ul.academic_list li ul.academic_details li h3 {
+  margin: 0 auto;
+}
+
+section.common ul.career_list li ul.career_details li.left,
+section.common ul.academic_list li ul.academic_details li.left {
   width: 5cm;
 }
 
-section.common ul.career_list li ul.career_details li.right {
+section.common ul.career_list li ul.career_details li.right,
+section.common ul.academic_list li ul.academic_details li.right {
   width: 15cm;
 }
 
-section.common ul.career_list li ul.career_details li.left span {
+section.common ul.career_list li ul.career_details li.left span,
+section.common ul.academic_list li ul.academic_details li.left span {
   font-style: italic;
 }
 
-section.common ul.career_list h4 {
+section.common ul.career_list h4,
+section.common ul.academic_list h4 {
   font-weight: 500;
   font-style: italic;
-  margin: 0.3cm auto;
+  margin: 0.3cm auto 0.1cm;
 }
 
-section.common ul.career_list p.career_outline {
+section.common ul.career_list p.career_outline,
+section.common ul.academic_list p.academic_desc {
   margin: 0 auto 0.1cm;
 }
 
