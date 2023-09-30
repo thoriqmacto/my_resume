@@ -16,24 +16,24 @@
     "total_year_exp": 12
   },
   "skills": {
-    "1": "Field Instrument Devices (Conventional, Smart & Fieldbus)",
-    "2": "Field F&G Devices",
-    "3": "Control & On/Off Valves",
-    "4": "ICSS Design, Review & Test",
-    "5": "Safety Instrumented System (Design, Review & Validation)",
-    "6": "Process Control System (Design, Review & Test)",
-    "7": "Field Instrument Sizing & Calculation",
-    "8": "SmartPlant Instrumentation",
-    "9": "Loop Testing and Troubleshooting",
-    "10": "Field Installation and Hook-up Development",
-    "11": "Software Programming and Testing",
-    "12": "Database System & Integration",
-    "13": "Third-party Package Interfaces & PLC (Design, Review & Test)",
-    "14": "I&C Material Take-off Development",
-    "15": "I&C 3D Layout Design & Review"
+    "field_instrument": "Field Instrument Devices (Conventional, Smart & Fieldbus)",
+    "field_fgs_devices": "Field F&G Devices",
+    "valves": "Control & On/Off Valves",
+    "icss": "ICSS Design, Review & Test",
+    "sis": "Safety Instrumented System (Design, Review & Validation)",
+    "pcs": "Process Control System (Design, Review & Test)",
+    "sizing_calc": "Field Instrument Sizing & Calculation",
+    "spi": "SmartPlant Instrumentation",
+    "loop_test": "Loop Testing and Troubleshooting",
+    "hookup": "Field Installation and Hook-up Development",
+    "programming": "Software Programming and Testing",
+    "db": "Database System & Integration",
+    "third_party_pkg": "Third-party Package Interfaces & PLC (Design, Review & Test)",
+    "mto": "I&C Material Take-off Development",
+    "3d": "I&C 3D Layout Design & Review"
   },
-  "academic": {
-    "1": {
+  "academic": [
+    {
       "interval": "Aug 2006 - Oct 2010",
       "total_months": 50,
       "school": "Bandung Institute of Technology",
@@ -43,9 +43,9 @@
       "project_text": "Final Year Project",
       "project_title": "Extended Kalman Filter Design Development for Strapdown Inertial Navigation System aided GPS for Guided Missile Application"
     }
-  },
-  "careers": {
-    "1": {
+  ],
+  "careers": [
+    {
       "interval": "Nov 2021 - Present",
       "total_months": 23,
       "title": "KENT PLC for Tengizchevroil (TCO) FGP 3GI Project",
@@ -53,39 +53,39 @@
       "location": "Tengiz, Kazakhstan",
       "position": "I&C System Completion Engineer Coordinator",
       "outline": "Tengiz and Korolev reservoirs are world-class oil fields in Western Kazakhstan, which contain more than 25 billion barrels of oil and 61 TCF of Gas. TCO is operator of the Fields. The FGP (Future Growth Project) is major expansion of TCO’s oil production capacity. The expansion feature three new facilities: 3GP, Pressure Boost Facility (PBF) and Sour Gas Injection Plant (3GI). The capacity of the FGP process facilities is 33,420 TPD of stabilized oil and 1,072 MNm3/h (960 MMSCFD) of injected gas. The injected gas discharged from the injection compressors at 3GI facility to the multi well injection pad via injection gas pipelines. 3GI project size is about 20,000 I/O points managed by Honeywell based control system. Leading three until four teams with total of nine to twelve well-experienced technicians. Working closely with TCO operations and MAC engineers for I&C commissioning activities. Reported directly to Kent and TCO I&C Commissioning Team Leader.",
-      "responsibilities": {
-        "1": "Developed commissioning detail plans (level-IV, weekly) that outline detail steps to ensure systems properly executed, aligned with project priority, and clearly understood by team members.",
-        "2": "Conducted functional tests (loop check, control narrative validation and SIS validation) to ensure instruments and control systems working correctly and integrated as per design.",
-        "3": "Performed troubleshooting and resolving technical issues, collaborating with cross-functional teams, and ensuring seamless start-up and operational readiness of complex industrial processes.",
-        "4": "Consolidated detail documentation related to commissioning activities including test results, comprehensive reporting, PAS CR (Process Automation System Change Request), TQ, red-line or any engineering correspondences.",
-        "5": "Coordinated with electrical, mechanical and process as well as MAC (Main Automation Contractor) engineers, to ensure all systems are integrated and working correctly during dynamic commissioning.",
-        "6": "Managed safety procedures were followed during the execution of the commissioning process. Performed PPHA (Pre-Planning Hazard Analysis) as well as arranged complete permit to work for the team.",
-        "7": "Supervised and encouraged good teamwork in terms of sharing knowledge and experience to minimize gaps between team members.",
-        "8": "Observed any discrepancies between design documents and actual  implementation. Bridged the gap, developed solutions, and advised operations team as end-user of the system way-forward.",
-        "9": "Oversees ensuring that the design of facilities or modifications to existing facilities complies with specifications, codes & standards of the 3GI Project.",
-        "10": "Conducted F&G cause & effect validation and test with TCO Ops Engineer for module M206 (Utilities, Air Compressor), M208 (Utilities, Glycol Cooling System) and M202 (Utilities, Seal Gas Compressor)",
-        "11": "The acquired skill set on Safety Instrumented System encompassing a thorough understanding of Hierarchical Shutdown Levels, Cause & Effect Diagrams, Control & Safeguarding Philosophy, F&G Philosophy, and F&G layouts.",
-        "12": "Significantly enhances the ability to ensure optimal process safety and operational efficiency in 3GI project by fault finding, bug fixing and proposed recommendation solutions.",
-        "13": "Proficiently managed simultaneous operations (SIMOPS) by coordinating the safe and efficient integration of multiple commissioning activities between disciplines, ensuring compliance with safety protocols, optimizing resource allocation, and delivering successful plan execution within complex and dynamic commissioning activities",
-        "14": "Identifying opportunities for improvement in commissioning processes, procedures, and systems to enhance efficiency and effectiveness.",
-        "15": "Had appointed as I&C interface lead engineer for dynamic commissioning of both two trains of Air Compressor Package (Atlas Copco, Sweden).",
-        "16": "Had appointed as I&C interface lead engineer for dynamic commissioning of all three trains of Seal Gas Compressor (BHGE,US)",
-        "17": "Had appointed as I&C interface lead engineer for dynamic commissioning of Chiller Compressor Package (Clauger, France).",
-        "18": "Had appointed as I&C interface lead engineer for dynamic commissioning of Injection Compressor (BHGE, US)."
-      },
-      "achievements": {
-        "1": "Successfully delivered complex and challenging functional test of four mechanical packages (Air Compressor, Seal Gas Compressor, Chiller Cooling System, and Gas Injection Compressor).",
-        "2": "Receiving positive feedback and recognition from TCO Ops for delivering high-quality commissioning test, satisfying project objectives, and exceeding expectations. Providing valuable input to operational personnel on newly commissioned systems, facilitating smooth handover and ensuring their capability to operate and maintain the systems effectively.",
-        "3": "Effectively coordinating with multidisciplinary teams, vendors, and MAC resulting in smooth integration and commissioning of various system.",
-        "4": "Successfully initiating and leading continuous improvement initiatives within the commissioning team, streamlining reporting, and implementing best practices to enhance overall efficiency and effectiveness.",
-        "5": "Produced effective and accurate written documents, and technical reports which clearly understood and got recognized by end user.",
-        "6": "Got recognition from TCO for the best team on several dynamic commissioning projects milestone: Air Compressor, Seal Gas Compressor and Chiller Cooling System.",
-        "7": "Got recognition from TCO for best quality of SIS validation test report for entire FGP project (3GP, PBF and 3GI).",
-        "8": "Had been rewarded by 1-year new contract extension with promotion of new title position as SIS validation engineer/specialist.",
-        "9": "The most productive engineers in term of functional test check-sheet (C-type validation check-sheet)."
-      }
+      "responsibilities": [
+        "Developed commissioning detail plans (level-IV, weekly) that outline detail steps to ensure systems properly executed, aligned with project priority, and clearly understood by team members.",
+        "Conducted functional tests (loop check, control narrative validation and SIS validation) to ensure instruments and control systems working correctly and integrated as per design.",
+        "Performed troubleshooting and resolving technical issues, collaborating with cross-functional teams, and ensuring seamless start-up and operational readiness of complex industrial processes.",
+        "Consolidated detail documentation related to commissioning activities including test results, comprehensive reporting, PAS CR (Process Automation System Change Request), TQ, red-line or any engineering correspondences.",
+        "Coordinated with electrical, mechanical and process as well as MAC (Main Automation Contractor) engineers, to ensure all systems are integrated and working correctly during dynamic commissioning.",
+        "Managed safety procedures were followed during the execution of the commissioning process. Performed PPHA (Pre-Planning Hazard Analysis) as well as arranged complete permit to work for the team.",
+        "Supervised and encouraged good teamwork in terms of sharing knowledge and experience to minimize gaps between team members.",
+        "Observed any discrepancies between design documents and actual  implementation. Bridged the gap, developed solutions, and advised operations team as end-user of the system way-forward.",
+        "Oversees ensuring that the design of facilities or modifications to existing facilities complies with specifications, codes & standards of the 3GI Project.",
+        "Conducted F&G cause & effect validation and test with TCO Ops Engineer for module M206 (Utilities, Air Compressor), M208 (Utilities, Glycol Cooling System) and M202 (Utilities, Seal Gas Compressor)",
+        "The acquired skill set on Safety Instrumented System encompassing a thorough understanding of Hierarchical Shutdown Levels, Cause & Effect Diagrams, Control & Safeguarding Philosophy, F&G Philosophy, and F&G layouts.",
+        "Significantly enhances the ability to ensure optimal process safety and operational efficiency in 3GI project by fault finding, bug fixing and proposed recommendation solutions.",
+        "Proficiently managed simultaneous operations (SIMOPS) by coordinating the safe and efficient integration of multiple commissioning activities between disciplines, ensuring compliance with safety protocols, optimizing resource allocation, and delivering successful plan execution within complex and dynamic commissioning activities",
+        "Identifying opportunities for improvement in commissioning processes, procedures, and systems to enhance efficiency and effectiveness.",
+        "Had appointed as I&C interface lead engineer for dynamic commissioning of both two trains of Air Compressor Package (Atlas Copco, Sweden).",
+        "Had appointed as I&C interface lead engineer for dynamic commissioning of all three trains of Seal Gas Compressor (BHGE,US)",
+        "Had appointed as I&C interface lead engineer for dynamic commissioning of Chiller Compressor Package (Clauger, France).",
+        "Had appointed as I&C interface lead engineer for dynamic commissioning of Injection Compressor (BHGE, US)."
+      ],
+      "achievements": [
+        "Successfully delivered complex and challenging functional test of four mechanical packages (Air Compressor, Seal Gas Compressor, Chiller Cooling System, and Gas Injection Compressor).",
+        "Receiving positive feedback and recognition from TCO Ops for delivering high-quality commissioning test, satisfying project objectives, and exceeding expectations. Providing valuable input to operational personnel on newly commissioned systems, facilitating smooth handover and ensuring their capability to operate and maintain the systems effectively.",
+        "Effectively coordinating with multidisciplinary teams, vendors, and MAC resulting in smooth integration and commissioning of various system.",
+        "Successfully initiating and leading continuous improvement initiatives within the commissioning team, streamlining reporting, and implementing best practices to enhance overall efficiency and effectiveness.",
+        "Produced effective and accurate written documents, and technical reports which clearly understood and got recognized by end user.",
+        "Got recognition from TCO for the best team on several dynamic commissioning projects milestone: Air Compressor, Seal Gas Compressor and Chiller Cooling System.",
+        "Got recognition from TCO for best quality of SIS validation test report for entire FGP project (3GP, PBF and 3GI).",
+        "Had been rewarded by 1-year new contract extension with promotion of new title position as SIS validation engineer/specialist.",
+        "The most productive engineers in term of functional test check-sheet (C-type validation check-sheet)."
+      ]
     },
-    "2": {
+    {
       "interval": "Sep 2019 - Nov 2021",
       "total_months": 26,
       "title": "CSTS J.O (Chiyoda, Saipem, Tripatra & Suluh Ardhi) for BP Onshore LNG Tangguh Expansion Project",
@@ -93,35 +93,35 @@
       "location": "Papua Barat, Indonesia",
       "position": "I&C Commissioning Engineer",
       "outline": "For about two-years of involvement in engineering stage, had familiar with project development history. Continue to work at commissioning stage. Had involved during FAT and SAT for ICSS (Yokogawa based system) as well as third-party mechanical packages. Leading a team of two engineers, developed I&C Commissioning in-house application, and ensure carried out effectively. Assist I&C Commissioning Team Leader to provide work-front and execution plan. Working closely with construction and engineering team as interface engineer to solve issues. Reported to I&C Commissioning Team Leader.",
-      "responsibilities": {
-        "1": "Reviewed ICSS FAT report, punches, work carry-over as well as third-party mechanical packages FAT report, especially for EDG (ROS – Singapore), Air Compressor (Atlas Copco - Sweden) and Machine Monitoring System - MMS (BHGE – USA).",
-        "2": "Developed commissioning systemization LOSH (Limit of System Handover) drawing for all I&C scope.",
-        "3": "Verified CITEL (Construction Itemized List) issued by engineering to align with commissioning priorities.",
-        "4": "Monitored PCOS (Project Completion System; Saipem QC software) status for QC inspection and automate the process.",
-        "5": "Developed and maintained the list of required I&C Commissioning test tools as well as vendor commissioning spare-parts.",
-        "6": "Spearheaded for development and implementation of I&C Commissioning procedure especially on safety override mechanism, on-site ICSS design modification and third-party software hand-over.",
-        "7": "Responsible I&C engineer and focal point for ICSS SAT of LCR03 (Train-3 Process Area, Liquefaction and Refrigeration Unit).",
-        "8": "Supervised team and I&C technician for loop, functional test and commissioning of MMS, EDG, Air Compressors package in Utility Area.",
-        "9": "Supervised team and I&C technician for loop, functional test and commissioning of HVAC and F&G system building (LCR and Substation).",
-        "10": "Participated in MC1 construction site walk-down and punch-list meeting committee with Client (BP) and sub-contractors.",
-        "11": "Developed and maintained I&C Commissioning in-house database application (iQRA).",
-        "12": "Applied and managed safety inhibit & override system for I&C commissioning activities.",
-        "13": "Ensured all software assets from third-party packages been handed over properly. All the backups and configs file recorded as per latest commissioned system.",
-        "14": "Raised ICSS modification request to MAC because of fault finding during testing or incorrect implementation.",
-        "15": "Developed JSA and risk assessment for I&C Commissioning activities, coordinate with other discipline for simultaneous operation (especially in Utility area).",
-        "16": "Prepared SIF validation test-pack and justified the SIF test readiness.",
-        "17": "Join weekly meetings with engineering and construction for commissioning readiness and progress.",
-        "18": "Extensive use of WinPCS (Commissioning hand-over software) for ITR check-sheet, progress reporting and tracking."
-      },
-      "achievements": {
-        "1": "Had acquired troubleshooting and valuable field commissioning experience especially for Yokogawa ICSS, EDG (Allen-Bradley UCP), Air Compressor (Elektronikon) and Machine Monitoring System (Bentley Nevada).",
-        "2": "Successfully energized and commissioned ICSS panels inside LCR03 (Train-3) safely and make it ready for commissioning.",
-        "3": "Successfully energized and commissioned EDG and Air Compressor package safely and smoothly handed over to operation.",
-        "4": "Successfully energized and commissioned HVAC and F&G system building in Utility Area (LCR20, Main and GIS Substation) safely and smoothly handed over to operation.",
-        "5": "Successfully developed and maintained I&C Commissioning in-house application (iQRA) which used within organization and well accepted with appreciation by Client (BP).",
-        "6": "Delivered I&C Commissioning in-house application (iQRA) and trained all team member to use it fluently with minimum support.",
-        "7": "Rolled out work-front tool that could tracking readiness of loop test for about 10,000 I/O until cable tag level of detail."
-      }
+      "responsibilities": [
+        "Reviewed ICSS FAT report, punches, work carry-over as well as third-party mechanical packages FAT report, especially for EDG (ROS – Singapore), Air Compressor (Atlas Copco - Sweden) and Machine Monitoring System - MMS (BHGE – USA).",
+        "Developed commissioning systemization LOSH (Limit of System Handover) drawing for all I&C scope.",
+        "Verified CITEL (Construction Itemized List) issued by engineering to align with commissioning priorities.",
+        "Monitored PCOS (Project Completion System; Saipem QC software) status for QC inspection and automate the process.",
+        "Developed and maintained the list of required I&C Commissioning test tools as well as vendor commissioning spare-parts.",
+        "Spearheaded for development and implementation of I&C Commissioning procedure especially on safety override mechanism, on-site ICSS design modification and third-party software hand-over.",
+        "Responsible I&C engineer and focal point for ICSS SAT of LCR03 (Train-3 Process Area, Liquefaction and Refrigeration Unit).",
+        "Supervised team and I&C technician for loop, functional test and commissioning of MMS, EDG, Air Compressors package in Utility Area.",
+        "Supervised team and I&C technician for loop, functional test and commissioning of HVAC and F&G system building (LCR and Substation).",
+        "Participated in MC1 construction site walk-down and punch-list meeting committee with Client (BP) and sub-contractors.",
+        "Developed and maintained I&C Commissioning in-house database application (iQRA).",
+        "Applied and managed safety inhibit & override system for I&C commissioning activities.",
+        "Ensured all software assets from third-party packages been handed over properly. All the backups and configs file recorded as per latest commissioned system.",
+        "Raised ICSS modification request to MAC because of fault finding during testing or incorrect implementation.",
+        "Developed JSA and risk assessment for I&C Commissioning activities, coordinate with other discipline for simultaneous operation (especially in Utility area).",
+        "Prepared SIF validation test-pack and justified the SIF test readiness.",
+        "Join weekly meetings with engineering and construction for commissioning readiness and progress.",
+        "Extensive use of WinPCS (Commissioning hand-over software) for ITR check-sheet, progress reporting and tracking."
+      ],
+      "achievements": [
+        "Had acquired troubleshooting and valuable field commissioning experience especially for Yokogawa ICSS, EDG (Allen-Bradley UCP), Air Compressor (Elektronikon) and Machine Monitoring System (Bentley Nevada).",
+        "Successfully energized and commissioned ICSS panels inside LCR03 (Train-3) safely and make it ready for commissioning.",
+        "Successfully energized and commissioned EDG and Air Compressor package safely and smoothly handed over to operation.",
+        "Successfully energized and commissioned HVAC and F&G system building in Utility Area (LCR20, Main and GIS Substation) safely and smoothly handed over to operation.",
+        "Successfully developed and maintained I&C Commissioning in-house application (iQRA) which used within organization and well accepted with appreciation by Client (BP).",
+        "Delivered I&C Commissioning in-house application (iQRA) and trained all team member to use it fluently with minimum support.",
+        "Rolled out work-front tool that could tracking readiness of loop test for about 10,000 I/O until cable tag level of detail."
+      ]
     }
-  }
+  ]
 }
