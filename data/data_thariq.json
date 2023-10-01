@@ -52,7 +52,9 @@
       "stage": "Commissioning Stage",
       "location": "Tengiz, Kazakhstan",
       "position": "I&C System Completion Engineer Coordinator",
-      "outline": "Tengiz and Korolev reservoirs are world-class oil fields in Western Kazakhstan, which contain more than 25 billion barrels of oil and 61 TCF of Gas. TCO is operator of the Fields. The FGP (Future Growth Project) is major expansion of TCO’s oil production capacity. The expansion feature three new facilities: 3GP, Pressure Boost Facility (PBF) and Sour Gas Injection Plant (3GI). The capacity of the FGP process facilities is 33,420 TPD of stabilized oil and 1,072 MNm3/h (960 MMSCFD) of injected gas. The injected gas discharged from the injection compressors at 3GI facility to the multi well injection pad via injection gas pipelines. 3GI project size is about 20,000 I/O points managed by Honeywell based control system. Leading three until four teams with total of nine to twelve well-experienced technicians. Working closely with TCO operations and MAC engineers for I&C commissioning activities. Reported directly to Kent and TCO I&C Commissioning Team Leader.",
+      "outline": [
+        "Tengiz and Korolev reservoirs are world-class oil fields in Western Kazakhstan, which contain more than 25 billion barrels of oil and 61 TCF of Gas. TCO is operator of the Fields. The FGP (Future Growth Project) is major expansion of TCO’s oil production capacity. The expansion feature three new facilities: 3GP, Pressure Boost Facility (PBF) and Sour Gas Injection Plant (3GI). The capacity of the FGP process facilities is 33,420 TPD of stabilized oil and 1,072 MNm3/h (960 MMSCFD) of injected gas. The injected gas discharged from the injection compressors at 3GI facility to the multi well injection pad via injection gas pipelines. 3GI project size is about 20,000 I/O points managed by Honeywell based control system. Leading three until four teams with total of nine to twelve well-experienced technicians. Working closely with TCO operations and MAC engineers for I&C commissioning activities. Reported directly to Kent and TCO I&C Commissioning Team Leader."
+      ],
       "responsibilities": [
         "Developed commissioning detail plans (level-IV, weekly) that outline detail steps to ensure systems properly executed, aligned with project priority, and clearly understood by team members.",
         "Conducted functional tests (loop check, control narrative validation and SIS validation) to ensure instruments and control systems working correctly and integrated as per design.",
@@ -92,7 +94,9 @@
       "stage": "Commissioning Stage",
       "location": "Papua Barat, Indonesia",
       "position": "I&C Commissioning Engineer",
-      "outline": "For about two-years of involvement in engineering stage, had familiar with project development history. Continue to work at commissioning stage. Had involved during FAT and SAT for ICSS (Yokogawa based system) as well as third-party mechanical packages. Leading a team of two engineers, developed I&C Commissioning in-house application, and ensure carried out effectively. Assist I&C Commissioning Team Leader to provide work-front and execution plan. Working closely with construction and engineering team as interface engineer to solve issues. Reported to I&C Commissioning Team Leader.",
+      "outline": [
+        "For about two-years of involvement in engineering stage, had familiar with project development history. Continue to work at commissioning stage. Had involved during FAT and SAT for ICSS (Yokogawa based system) as well as third-party mechanical packages. Leading a team of two engineers, developed I&C Commissioning in-house application, and ensure carried out effectively. Assist I&C Commissioning Team Leader to provide work-front and execution plan. Working closely with construction and engineering team as interface engineer to solve issues. Reported to I&C Commissioning Team Leader."
+      ],
       "responsibilities": [
         "Reviewed ICSS FAT report, punches, work carry-over as well as third-party mechanical packages FAT report, especially for EDG (ROS – Singapore), Air Compressor (Atlas Copco - Sweden) and Machine Monitoring System - MMS (BHGE – USA).",
         "Developed commissioning systemization LOSH (Limit of System Handover) drawing for all I&C scope.",
@@ -122,6 +126,286 @@
         "Delivered I&C Commissioning in-house application (iQRA) and trained all team member to use it fluently with minimum support.",
         "Rolled out work-front tool that could tracking readiness of loop test for about 10,000 I/O until cable tag level of detail."
       ]
+    },
+    {
+      "interval": "Jan 2017 - Aug 2019",
+      "total_months": 31,
+      "title": "CSTS J.O (Chiyoda, Saipem, Tripatra & Suluh Ardhi) for BP Onshore LNG Tangguh Expansion Project",
+      "stage": "EPCI Stage",
+      "location": "Jakarta, Indonesia",
+      "position": "I&C Engineer",
+      "outline": [
+        "BP Onshore LNG Tangguh project is focusing on development of single liquefaction train expansion (Train-3) with supporting utility and infrastructure facilities. Each of trains (Train-1,2 and 3) has a shippable capacity of approximately 3.8 MTPA. Turnkey greenfield EPCI project of Train-3 scope comprises of Condensate Stabilization, ORF, AGRU, Mercury Removal and Dehydration, Liquefaction and Fractionation, Refrigeration, Power Generation, Steam, Fuel Gas, Water Treatment, Air, Nitrogen, LNG S&L, Condensate S&L, WWT, and Infrastructure. Yokogawa based control system to manage approximately 10,000 I/O points of ICSS package (include all third-party package interfaces) spread to five Local Control Rooms (LCR03, LCR20, LCR21, LCR22 and LCR23) and one MCB (Main Control Building) has been designed for all mentioned scopes.",
+        "Had worked within I&C engineering team for developing deliverables as per project execution philosophy and specification, executing FEED, Pre-bid, and Detail Engineering. Interfacing with other disciplines as well as vendor including MAC (Main Automation Contractor). Developed complete understanding of Client (BP) requirements and provide resolution. Reported to I&C Engineering Team Leader."
+      ],
+      "responsibilities": [
+        "Reviewed FEED dossier, Company and Contractor specifications and philosophies for I&C scopes. To ensure alignment with applicable international code and standards (ISA, IEC, ASME, NFPA, etc.), common design practice, and other discipline concerns then officialize in the form of Technical Queries (TQs) / Clarification respect to technical issues of design challenge for Company approval.",
+        "Collaborated with engineers, purchasers and other staff members who involved in project including reviewing P&ID, area classification, HAZOP studies, piping, mechanical, electrical, lost prevention, and process documents inter-disciplinary check.",
+        "Had involved from early development of flow-meter selection study until P.O placement decision process.",
+        "Had involved in development of ITP (Inspection Test Plan) for flow and temperature instruments with QC.",
+        "Extensive use of SmartPlant Instrumentation software to develop and maintain data-sheets development and review cycle, preliminary sizing, and calculation as well as I/O checking.",
+        "Delivered sizing and selection, development of field instrument datasheet, vendor requisition, bid evaluation and drawing review, as well as witnessing for FAT for Contractor-scope field instrument packages such as Venturi tube flow-element, Ultrasonic flowmeter, Vortex flowmeter, Magnetic flowmeter, Coriolis flowmeter, Orifice flow-element, Variable-area flowmeter (Rotameter), Electronic field transmitter (Pressure and DP type), Open-ditch flowmeter, Temperature Gauge including Thermowell, and Temperature Transmitter including Thermowell.",
+        "Ensured piping isometric drawing for inline flow and temperature instruments are aligned with datasheet, 2D general arrangement drawing as well as 3D model.",
+        "Verified loop sheets and wiring schematics of vendor packages either automatically generated by SmartPlant Instrumentation or manually.",
+        "Closely involved in development of installation engineering works including review of 3D model, instrumentation layouts and hook-up diagrams, cable, and tube schedules and Material-Take-Off for instrumentation package.",
+        "Closely involved in development of control system engineering works including I/O database, set-point alarm and trip, logic diagram, control narrative, interface with third-party packages and LCRs design.",
+        "Attended ICSS FAT at MAC staging area to ensure control narratives, logic diagrams, set-point alarm and trip, HMI graphic pages as well as Cause & Effect logic are correctly implemented as per design intent.",
+        "Closely involved in preparation of method statement for brownfield tie-ins interface work-pack especially for flow and temperature instruments.",
+        "Reviewed all field instrumentation inside mechanical packages especially for flow and temperature instruments.",
+        "Participated in SIL verification studies with Company and third-party consultant.",
+        "Participated in LOSH (Limit of System Handover) development for I&C scopes with Construction and Commissioning."
+      ],
+      "achievements": [
+        "Produced effective and accurate written documents, reports, and technical memorandums.",
+        "Consistently withstand any design challenges and successfully get approval from Client (BP) related to selection study and sizing of flowmeter.",
+        "Successfully implemented in-house VBA application for quality and consistency checking of I/O wiring data utilizing SPI Intools database.",
+        "Ensured the timely completion of deliverable in harmonization with the other engineering disciplines.",
+        "Design inconsistencies has been carefully managed, minimize change order and back-charge issues from vendor which resulted a good use of project budget."
+      ]
+    },
+    {
+      "interval": "Mar 2021 - Nov 2021",
+      "total_months": 8,
+      "title": "Saipem for Offshore NFPS Qatargas Project",
+      "stage": "EPCOL Stage",
+      "location": "Jakarta, Indonesia",
+      "position": "I&C 3D Model Interface Engineer",
+      "outline": [
+        "Leading a team of six 3D CAD designers for I&C system plant design layout for six new build offshore platforms. Two wellhead platforms (WHP14S and WHP12N) and four riser platforms (RP6S, RP4N, RP10S and RT2) with different complexities and requirements. Collaborate with other disciplines to create highly effective and optimize 3D layout due to limitation of space. Reporting directly to TM."
+      ],
+      "responsibilities": [
+        "Develop checklist summarizing I&C requirements from Client (Qatargas) related to 3D layout and HFE (Human Factor Engineering).",
+        "Participate in 3D review committee as I&C team leader providing clear technical justifications, recommendations, and solutions.",
+        "Organize I&C targets with all 3D CAD designers for preliminary (30%), intermediate (60%) and final (90%) 3D review milestone.",
+        "Establish interface coordination with other package Engineers, Disciplines, Vendors and Client (Qatargas) to comply with status of 3D layout requirements.",
+        "Review P&ID, F&G Layout, equipment layout, and instrument datasheets in conjunction with latest 3D model status."
+      ],
+      "achievements": [
+        "Withstand any pressure from Client (Qatargas) and successfully solved problems with team during COVID pandemic situation.",
+        "Established 3D model progress reporting system in tagwise level of detail.",
+        "Successfully delivered and managed I&C portion of clean and clash-free 3D model for intermediate 3D review milestone."
+      ]
+    },
+    {
+      "interval": "Jan 2015 - Mar 2016",
+      "total_months": 15,
+      "title": "CSTS J.O (Chiyoda, Saipem, Tripatra & Suluh Ardhi) for BP Onshore LNG Tangguh Expansion Project",
+      "stage": "FEED Stage",
+      "location": "Jakarta, Indonesia",
+      "position": "I&C Engineer",
+      "outline": [
+        "Contractor's scope includes all necessary I&C FEED deliverables to create basis of lump sum EPCI proposal of BP Onshore LNG Tangguh project. Activities during FEED including critical P&ID review, BoD I&C input, amendment of Company Specifications & Philosophies, I&C Criticality Rating Assessment, HAR (High Accuracy Required) flow-meter study, I/O Count for MAC (Main Automation Contractor), Power Consumption, ETP (Engineering Technical Practice) Conformance Study, Toxic & Hazardous Impact on Field Instrument, Quality Measurement Narratives, Main Cable Tray as well as Cable Sizing & Estimation, Material-Take-Off for tagged and bulk items. Directly reported to I&C Engineering Team Leader."
+      ],
+      "responsibilities": [
+        "Closely involved in criticality P&ID review with Process and Piping. Provide technical recommendation for field instrument type.",
+        "Contributed on development of quality measurement narratives especially for determining HAR flowmeter and flow-meter selection.",
+        "Reviewed typical instrument installation and hook-up drawing to align with project specification and philosophy.",
+        "Conducted feasibility studies for main cable tray & ladder routing as per equipment layout.",
+        "Contributed to amendment of Field Instruments and Fire & Gas Detector specification.",
+        "Developed of datasheet as well as requisition to receive vendor quotation (Venturi and Ultrasonic flowmeter) for EPCI proposal.",
+        "Consolidated all Material-Take-Off for all tagged instruments scope (including analyzer and control valves).",
+        "Contributed on development of I&C Database Management using SmartPlant Instrumentation.",
+        "Closely involved in development of preliminary control narratives which describe typical functionalities, typical control loops, typical calculation, general plant control philosophy, unit wise control narrative including Condensate Stabilization, ORF, AGRU, Hg Removal & Dehydration, Gas Liquefaction & Fractionation, Utility Steam and Fuel Gas System."
+      ],
+      "achievements": [
+        "Successfully delivered EPCI unpriced proposal for I&C scope in strict and relatively short schedule.",
+        "Had acquired valuable knowledge on onshore LNG facilities in terms of process and safety control as well as field instrument size and selection methodology.",
+        "Obtained a depth-knowledge for I&C technical proposal especially for LNG project estimation."
+      ]
+    },
+    {
+      "interval": "June - Dec 2014",
+      "total_months": 7,
+      "title": "HHI+STC J.O (Hyundai, Saipem, Tripatra and Chiyoda) for Offshore ENI Jangkrik (JKK) Complex Project for Floating Production Unit (FPU)",
+      "stage": "EPCI Stage",
+      "location": "Jakarta, Indonesia",
+      "position": "I&C Engineer",
+      "outline": [
+        "Jangkrik field located about 70km from the coast in the Muara Bakau, Makassar Strait, offshore Borneo of Indonesia, at water depth. ranging from 250-500m. A barge shaped FPU performing full offshore process and exporting treated gas to onshore by using existing 42” pipeline to Badak plant and stabilised condensate by using 20” existing pipeline to Senipah plant. HHI+STC JO (Hyundai Heavy Industry, Saipem, Tripatra and Chiyoda) contractors had awarded this $1.1bn EPCI turn-key projects. Total I/O points for all systems (including third-party packages) are about 10,800 I/O which terminated inside Hull LER and E&I Building Instrument Room respectively. Honeywell based system as primary control system with Fieldbus technology application. Had involved in automation team which responsible for ICSS design especially for third-party package interfaces. Directly reported to Automation Specialist Lead."
+      ],
+      "responsibilities": [
+        "Developed and maintained cause & effect diagram for ESD and FGS.",
+        "Developed and maintained control and safeguarding narratives for: Main Power Generation (Unit 470), Condensate Stabilization Storage & Export (Unit 210, 220), Produced Water System (Unit 560), MEG Regeneration System (Unit 390), Compressed Air System (Unit 460).",
+        "Attended FAT for ICSS design development at MAC staging area.",
+        "Verified SPI Intools wiring related to vendor wiring schematic, mainly for Main Power Generation (SOLAR), Compressed Air (CSI), and MRU Packages (Prosernat).",
+        "Reviewed DNV standard for offshore facilities especially for automation scope certification preparation.",
+        "Designated as interface engineer for Vendor documents review for third-party packages: Main Power Generation – GTG package (SOLAR Turbine – USA), MEG Regeneration Unit – MRU package (Prosernat – France) and Air Compressor & Drier Skid Package (CSI Pte. Ltd. – Singapore)."
+      ],
+      "achievements": [
+        "Successfully managed third-party package interfaces coordination for I&C scope.",
+        "Had acquired experience and knowledge for automation design requirements and testing at offshore floaters."
+      ]
+    },
+    {
+      "interval": "Oct - Dec 2013",
+      "total_months": 3,
+      "title": "Saipem for Development of Quality Management System Manual",
+      "stage": "",
+      "location": "Jakarta, Indonesia",
+      "position": "I&C Engineer",
+      "outline": "Developed quality technical standard documents for I&C scope which would be applied around Saipem global. As engineering centre for APAC region, Saipem Jakarta office had been contributed to this design engineering practice manual.",
+      "responsibilities": [
+        "Studied “AGA Report No.10 – 2003 Computation of Sound Speed in Natural Gas and Other Related HC Gases” and re-compile C++ code to re-build the binary version of calculation software.",
+        "Appointed as responsible engineer to prepare drafted version of I&C technical information document “TI-COR-ENG-AUT-001-E Design Practice Flow Compensation Write-up.”",
+        "Contributed on reviewing drafted version of I&C criteria document type “CR-COR-ENG-INS-006-E Preparation of Descriptive Document and Compatibility Check of Intrinsically Safe Systems”."
+      ],
+      "achievements": [
+        "Had comprehensive understanding of measuring compressible fluid flow compensation.",
+        "Successfully re-write, re-compile, and re-build AGA Report No.10 – 2003 calculation software and use it to verify any ultrasonic meter calibration report for speed of sound."
+      ]
+    },
+    {
+      "interval": "July - Sept 2013",
+      "total_months": 3,
+      "title": "Saipem for Petronas Sdn. Bhd. SK316 Project",
+      "stage": "FEED Design Competition",
+      "location": "Jakarta, Indonesia",
+      "position": "I&C Engineer",
+      "outline": [
+        "Development of wellhead platforms NC3 and NC8, including E11RC tie-in project in the SK316 field, approximately 180 km north of Bintulu, Sarawak, at a water depth of 104 m. Maximum production capacities (both NC3 and NC8) are about 2.6 TSCF of net gas. Saipem Jakarta provided support to Saipem Malaysia for the FEED design competition that was limited within three months period. Contractors with a FEED grant are required to continue to complete the engineering phase of the EPCI stage. Activities and progress reported to I&C Project Specialist Lead."
+      ],
+      "responsibilities": [
+        "Reviewed all types of instruments defined in process P&ID mechanization, provided feedback on instrument type and selection.",
+        "Appointed as responsible engineer for data-sheet development of actuated on/off valves, safety relief valves and orifice flow elements.",
+        "Performed preliminary selection and sizing for safety relief valves and orifice flow elements.",
+        "Verified and maintained consistency checking for instrument index development (tagging, size, set-point alarm) inside SPI InTools v9 for all review cycle to align with the latest information."
+      ],
+      "achievements": [
+        "Had acquired knowledge of PTS (Petronas Technical Standard; derived from Shell DEP) which use for all Petronas projects.",
+        "Had acquired experience using SPI InTools software for I&C engineering project.",
+        "Successfully delivered for all assigned tasks with minimum supervision."
+      ]
+    },
+    {
+      "interval": "June 2012 - June 2013",
+      "total_months": 12,
+      "title": "Saipem for Premier Oil Naga & Pelikan WHP and GBCPP Tie-ins Project",
+      "stage": "EPCI Stage",
+      "location": "Jakarta, Indonesia",
+      "position": "I&C Engineer",
+      "outline": [
+        "Premier Oil Natuna Sea B.V had developed Naga & Pelikan gas field in the West Natuna Sea (north of Indonesia). The project involves of two new fixed steel platforms Naga (NWP) and Pelikan (PWP) wellhead platform, extended from previous Gajah Baru project which was executed by Saipem and SMOE. Saipem Jakarta had worked on detail engineering scope and SMOE with procurement, construction, and installation scope. Total I/O points for all scope (GBCPP tie-ins, NWP and PWP) were about 750 I/O points, with Yokogawa based control system. Reported to Project Specialist Lead (PSL)."
+      ],
+      "responsibilities": [
+        "Had reviewed process P&ID and F&G devices layout mechanization to develop instrument I/O and index list.",
+        "Had performed preliminary calculations for: instrument power drop, control valve sizing, thermowell WFC, and orifice sizing.",
+        "Had developed instrument datasheet for: choke valve, control valve, actuated ball valve, F&G device, rotameter, corrosion monitoring non-intrusive type and pig Indicator.",
+        "Had developed vendor technical requisition, reviewed vendor proposal and performed bid evaluation for: rotameter, pig indicator and F&G device packages.",
+        "Had reviewed and checked for cable and tubing schedule, instrument typical installation and hookup drawing as well as material-take-off for bulk and tagged items."
+      ],
+      "achievements": [
+        "Had acquired first valuable experience in I&C detail engineering stage which directly hands-on with instrument package vendor.",
+        "Had accomplished and delivered calculation report using InstruCalc software."
+      ]
+    },
+    {
+      "interval": "Jan - June 2012",
+      "total_months": 6,
+      "title": "Saipem for ADMA OPCO Umm Lulu Full Field Development Project (ULFFDP)",
+      "stage": "BID Proposal",
+      "location": "Jakarta, Indonesia",
+      "position": "I&C Engineer",
+      "outline": [
+        "Umm Lulu (UL) field was located approx. 40km Northwest of Abu Dhabi city in the Arabian Gulf. ULFFD was expected to have a plateau rate of 105 MMSTBOPD sustained for about ten years, with production starting from 2016.For the EPC packages scope was for eight new build platforms consisting of Riser (ULRP), Gas Treatment (ULGTP), Separation (ULSP), Utilities (ULUTP), Accommodation (ULAP),Flare (ULFL-1 & ULFL-2) and Water Disposal (ULWDP) as well as bridges (ULBR). The execution of bidding phase took place by dividing the scope of work between Saipem Milan and Jakarta branches. Reported directly to I&C Project Specialist Lead at Jakarta office."
+      ],
+      "responsibilities": [
+        "Had Conducted design review of I&C scope FEED specification/philosophy/design basis.",
+        "Had raised TQ/clarifications to Company as FEED endorsement action.",
+        "Had checked, reviewed, and developed Instrument I/O count, cable schedule, main cable tray & ladder layout, F&G devices list.",
+        "Had developed and consolidated Material Take-Off as per Saipem work instruction for Jakarta scope (ULAP, ULBR, ULFL, ULRP and ULWDP) which consist of Instr. Cable, Instr. Cable & Tubing Tray, Instr. Support, MCT, Instr. and F&G tagged items, Cable Glands, Instr. Tube & Fittings, and Instrument Control Valves"
+      ],
+      "achievements": [
+        "Successfully submitted detailed Material Take-off for I&C scope as per Saipem work instruction on time.",
+        "Had recognized by Saipem Milan Project Manager for outstanding engineering deliverables with quality level of detail and precision work."
+      ]
+    },
+    {
+      "interval": "Oct - Dec 2011",
+      "total_months": 3,
+      "title": "Saipem for INPEX Masela FLNG ABADI Gas Field Project",
+      "stage": "Pre-FEED Study",
+      "location": "Jakarta, Indonesia",
+      "position": "I&C Engineer",
+      "outline": [
+        "Floating LNG was a new LNG processing technology which need a familiarization study activity before executing any FEED projects or design competition. With the support from Saipem S.A (France), Saipem Jakarta office had conducted pre-FEED study using FLNG Petrobras B.V data as project case studies. Result from these activities was comparison report which gave clear differences between conventional LNG and FLNG facilities in term of technical issues, operations and maintenance, advantage/disadvantage, and cost."
+      ],
+      "responsibilities": [
+        "Had obtained extensive use of SmartPlant Instrumentation for I&C database (instrument index, datasheet, sizing & calculation, loop wiring, and custom reporting).",
+        "Had prepared design review report of rising-stem on/off valve (Orbit™ valve – Cameron, USA) for molecular sieves bed application in Hg removal & dehydration unit."
+      ],
+      "achievements": [
+        "Had a valuable experience working with world-class engineering contractors for LNG process facilities.",
+        "Had obtained an access and familiarized with the well-known Shell DEP (Design Engineering Practice)."
+      ]
+    },
+    {
+      "interval": "April - Dec 2011",
+      "total_months": 3,
+      "title": "Saipem for INPEX ICHTHYS Floating Production, Storage and Offloading (FPSO)",
+      "stage": "BID Proposal",
+      "location": "Jakarta, Indonesia",
+      "position": "I&C Engineer",
+      "outline": [
+        "The Ichthys field was approx. 40 x 20 km located 825 km southwest of Darwin and consists of two reservoirs: the Brewster and Plover formation. Offshore facilities (CPF and FPSO) design rate shall be based on gas export pipeline ultimate capacity of 1,657 MMSCFD for combined Brewster and Plover production. FPSO facilities consist of condensate/MEG/produced water separation, condensate stabilisation and storage, Hg removal, flash gas compression and MEG regeneration/reclamation. First project assignment as entry level I&C Engineer. Saipem Jakarta supported to Saipem S.A in France as a lead bidder. Report directly to Project Specialist Lead at Jakarta office."
+      ],
+      "responsibilities": [
+        "Had reviewed P&ID, F&G devices layout and I&C philosophy as well as specification for control valves and field instruments.",
+        "Had prepared and consolidated I&C Material Take-off for tagged items, control & safety valves as well as F&G devices."
+      ],
+      "achievements": [
+        "Had acquired knowledge of bid tendering methodology for EPC project as per Saipem global work instruction.",
+        "Had obtained a solid starting point as I&C engineer to understand scope of work in floater-based processing facilities."
+      ]
+    }
+  ],
+  "training": [
+    {
+      "when": "May 2016",
+      "duration": "online, self-paced",
+      "about": "CTL.SC1x: Supply Chain Fundamentals",
+      "location": "MITx",
+      "by": "Honor Code"
+    },
+    {
+      "when": "Jan 2014",
+      "duration": "3 days",
+      "about": "Turbomachinery Control System Training",
+      "location": "Jakarta, Indonesia",
+      "by": "Conducted by: CCC"
+    },
+    {
+      "when": "March 2014",
+      "duration": "7 days",
+      "about": "PMP (Project Management Professional) Training",
+      "location": "Jakarta, Indonesia",
+      "by": "Conducted by: ENI Corporate University"
+    }
+  ],
+  "additional_information": [
+    {
+      "about": "Software",
+      "proficiency_level": "extensive use",
+      "description": "MS Office, InstruCalc, SPI Instrumentation, WinPCS, AutoCAD, Navisworks, Linux, GCC"
+    },
+    {
+      "about": "Control System",
+      "proficiency_level": "experience to work with",
+      "description": "PLC based (Allen-Bradley, Simatic, Elektronikon, Eagle Quantum, VESDA), DCS based (Yokogawa CentumVP, Honeywell C300), Safety PLC (Yokogawa ProSafe-RS, Honeywell Safety Manager), Microcontroller based (Atmel AVR, Arduino), Mini PC (Raspberry Pi)"
+    },
+    {
+      "about": "Programming Language",
+      "proficiency_level": "intermediate level",
+      "description": "C, Java, Kotlin, VBA, SQL based (Oracle, MySQL, PostgreSQL), Web-based (Javascript, HTML & CSS)"
+    },
+    {
+      "about": "Language",
+      "proficiency_level": "",
+      "description": "Bahasa (native), English (professional proficency), Arabic basic/entry-level)"
+    },
+    {
+      "about": "Hobbies",
+      "proficiency_level": "",
+      "description": "Basketball, Soccer, Table Tennis, Coding, Automation/Embedded System"
     }
   ]
 }
